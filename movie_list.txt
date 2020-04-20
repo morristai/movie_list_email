@@ -1,0 +1,43 @@
+列出磁碟區 XPG 的資料夾 PATH
+磁碟區序號為 BCE8-6F15
+D:\迴路奇譚
+├─E01
+│      Tales.From.the.Loop.S01E01.1080p.iNTERNAL.WEB.H264-GHOSTS ID27 Chinese.srt
+│      Tales.From.the.Loop.S01E01.1080p.iNTERNAL.WEB.H264-GHOSTS ID3 English.srt
+│      Tales.From.The.Loop.S01E01.2160p.AMZN.WEBRip.DDP5.1.x265-AJP69.mkv
+│      
+├─E02
+│      Tales.From.the.Loop.S01E02.1080p.iNTERNAL.WEB.H264-GHOSTS ID28 Chinese.srt
+│      Tales.From.the.Loop.S01E02.1080p.iNTERNAL.WEB.H264-GHOSTS ID3 English.srt
+│      Tales.From.The.Loop.S01E02.2160p.AMZN.WEBRip.DDP5.1.x265-AJP69.mkv
+│      
+├─E03
+│      Tales.From.the.Loop.S01E03.1080p.iNTERNAL.WEB.H264-GHOSTS ID28 Chinese.srt
+│      Tales.From.the.Loop.S01E03.1080p.iNTERNAL.WEB.H264-GHOSTS ID3 English.srt
+│      Tales.From.The.Loop.S01E03.2160p.AMZN.WEBRip.DDP5.1.x265-AJP69.mkv
+│      
+├─E04
+│      Tales.From.the.Loop.S01E04.1080p.iNTERNAL.WEB.H264-GHOSTS ID27 Chinese.srt
+│      Tales.From.the.Loop.S01E04.1080p.iNTERNAL.WEB.H264-GHOSTS ID3 English.srt
+│      Tales.From.The.Loop.S01E04.2160p.AMZN.WEBRip.DDP5.1.x265-AJP69.mkv
+│      
+├─E05
+│      Tales.From.the.Loop.S01E05.1080p.iNTERNAL.WEB.H264-GHOSTS ID28 Chinese.srt
+│      Tales.From.the.Loop.S01E05.1080p.iNTERNAL.WEB.H264-GHOSTS ID3 English.srt
+│      Tales.From.The.Loop.S01E05.2160p.AMZN.WEBRip.DDP5.1.x265-AJP69.mkv
+│      
+├─E06
+│      Tales.From.the.Loop.S01E06.1080p.iNTERNAL.WEB.H264-GHOSTS ID27 Chinese.srt
+│      Tales.From.the.Loop.S01E06.1080p.iNTERNAL.WEB.H264-GHOSTS ID3 English.srt
+│      Tales.From.The.Loop.S01E06.2160p.AMZN.WEBRip.DDP5.1.x265-AJP69.mkv
+│      
+├─E07
+│      Tales.From.the.Loop.S01E07.1080p.iNTERNAL.WEB.H264-GHOSTS ID27 Chinese.srt
+│      Tales.From.the.Loop.S01E07.1080p.iNTERNAL.WEB.H264-GHOSTS ID3 English.srt
+│      Tales.From.The.Loop.S01E07.2160p.AMZN.WEBRip.DDP5.1.x265-AJP69.mkv
+│      
+└─E08
+        Tales.From.the.Loop.S01E08.1080p.iNTERNAL.WEB.H264-GHOSTS ID27 Chinese.srt
+        Tales.From.the.Loop.S01E08.1080p.iNTERNAL.WEB.H264-GHOSTS ID3 English.srt
+        Tales.From.The.Loop.S01E08.2160p.AMZN.WEBRip.DDP5.1.x265-AJP69.mkv
+        
