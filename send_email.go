@@ -1,17 +1,17 @@
 package main
 
 import (
-	"crypto/tls"
-	"fmt"
-	"gopkg.in/mail.v2"
-	"os"
+    "crypto/tls"
+    "fmt"
+    "gopkg.in/mail.v2"
+    "os"
     "path/filepath"
 )
 
 func main() {
 	files, err := WalkMatch("/home/morris/Videos", "*.txt")
-    if err != nil{
-		fmt.Println(err)
+        if err != nil{
+		panic(err)
 	}
 	m := mail.NewMessage()
 	m.SetHeader("From", "diaper151@gmail.com")
